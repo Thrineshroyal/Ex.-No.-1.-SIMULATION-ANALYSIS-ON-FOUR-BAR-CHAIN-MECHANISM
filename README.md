@@ -55,7 +55,7 @@
 ## Output:
 ![Screenshot 2023-12-26 090518](https://github.com/Thrineshroyal/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145741928/b48f663a-ceec-424e-96a4-e650f2f12f45)
 
-![Screenshot 2023-12-26 090800](https://github.com/Thrineshroyal/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145741928/da74d912-438a-4cf0-9c28-bfcb4340dc74)
+![Screenshot 2023-12-26 091437](https://github.com/Thrineshroyal/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145741928/156c4218-01ec-4c38-a093-7282ba66d851)
 
 ![Screenshot 2023-12-26 090441](https://github.com/Thrineshroyal/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145741928/33989978-5cce-4971-8f8f-8b48cb6dcd17)
 
